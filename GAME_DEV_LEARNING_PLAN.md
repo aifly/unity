@@ -11,11 +11,11 @@
 - itch.io butler: `E:\Unity\Butler\butler.exe`
 - Unity 项目目录: `E:\Unity\Projects`
 
-## 当前阻塞项
+## 当前状态
 
-Unity Editor 已安装并可启动，但还没有激活许可证。
+Unity Editor 已安装、许可证已可用，`TopDownSurvivor` 项目已创建。
 
-下一步需要在 Unity Hub 中登录 Unity 账号并激活个人许可证。完成后，我们再创建第一个项目。
+第一节课已完成：生成 `Main.unity` 场景，创建 Player、Camera、Grid，并写入玩家移动脚本。
 
 ## 主线项目
 
@@ -27,14 +27,14 @@ Unity Editor 已安装并可启动，但还没有激活许可证。
 
 ## 第 1 阶段：工具与第一个项目
 
-- 登录 Unity Hub 并激活许可证
-- 创建 `E:\Unity\Projects\TopDownSurvivor`
-- 配置 VS Code 作为外部脚本编辑器
-- 初始化 Git 与 Unity `.gitignore`
-- 创建第一个 Scene
-- 创建 Player GameObject
-- 编写 `PlayerController2D.cs`
-- 运行并看到角色移动
+- [x] 登录 Unity Hub 并激活许可证
+- [x] 创建 `E:\Unity\Projects\TopDownSurvivor`
+- [x] 配置 VS Code 作为外部脚本编辑器
+- [x] 初始化 Git 与 Unity `.gitignore`
+- [x] 创建第一个 Scene
+- [x] 创建 Player GameObject
+- [x] 编写 `PlayerController2D.cs`
+- [ ] 在 Unity Editor 中进入 Play Mode，确认角色移动
 
 ## 第 2 阶段：核心玩法原型
 

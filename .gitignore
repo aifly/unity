@@ -5,10 +5,30 @@
 /Downloads/
 /Editors/
 /Hub/
+/Packages/
+/ProjectSettings/
 /Logs/
-/Projects/
 /VSCode/
 
 # Temporary pages used while verifying official download sources.
 /unity-editor-archive.html
 /unity-editor-whats-new.html
+
+# Unity generated files.
+**/Library/
+**/Temp/
+**/Obj/
+**/Logs/
+**/UserSettings/
+**/MemoryCaptures/
+**/Recordings/
+**/Build/
+**/Builds/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
