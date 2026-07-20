@@ -1,0 +1,14 @@
+# Local toolchain installed for the learning environment.
+/Butler/
+/Cache/
+/dotnet/
+/Downloads/
+/Editors/
+/Hub/
+/Logs/
+/Projects/
+/VSCode/
+
+# Temporary pages used while verifying official download sources.
+/unity-editor-archive.html
+/unity-editor-whats-new.html
